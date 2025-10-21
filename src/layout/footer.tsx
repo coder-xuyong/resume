@@ -27,7 +27,7 @@ const Footer: React.FC = () => {
         </div>
 
         <a
-          href={'https://github.com/visiky/resume.git'}
+          href={'https://github.com/coder-xuyong/resume.git'}
           style={{ position: 'absolute', right: '8px', fontSize: '12px' }}
           target="_blank"
         >
