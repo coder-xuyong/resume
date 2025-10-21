@@ -5,7 +5,7 @@ module.exports = {
     githubUrl: 'https://github.com/visiky/resume.git',
     author: 'visiky',
     contact: 'https://github.com/visiky',
-  },
+  }, 
   flags: {
     DEV_SSR: false,
   }, 
